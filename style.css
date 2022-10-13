@@ -31,7 +31,7 @@ main {
     width: 178px;
     display: flex;
     flex-wrap: wrap;
-    gap: 2px;
+    gap: 3px;
 }
 #left div p{
     width: 28px;
